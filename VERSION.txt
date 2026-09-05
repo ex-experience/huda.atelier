@@ -1,6 +1,1 @@
-ATELIER HUDA — EDITORIAL V4
-Build: 2026-09-05
-Entry file: index.html
-Expected browser title: ATELIER HUDA — EDITORIAL V4
-Expected visual marker: EDITORIAL V4 at bottom-right corner.
-This package is FLAT: index.html is at the ZIP root, not inside a nested atelier-huda folder.
+V5 boutique — shop images, academy, agent, supabase schema, Huda portraits

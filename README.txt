@@ -11,4 +11,4 @@ Project URL و anon key في huda.atelier/assets/js/supabase-config.js
 
 هاتف +966 54 556 5606 — إنستغرام hudaoalamoudi
 concierge@atelierhuda.com
-©2026 フサム | experience™ All Rights Reserved.
+©2026 フسام | experience™ All Rights Reserved.

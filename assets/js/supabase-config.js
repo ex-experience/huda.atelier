@@ -1,5 +1,5 @@
 window.ATELIER_SUPABASE = {
   url: "",
   anonKey: "",
-  notifyEmail: "hussambinhassan@gmail.com"
+  notifyEmail: "hussambinhassan92@gmail.com"
 };

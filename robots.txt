@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ex-experience.github.io/huda.atelier/sitemap.xml
